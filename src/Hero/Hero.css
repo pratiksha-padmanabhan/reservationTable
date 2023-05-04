@@ -1,0 +1,74 @@
+@font-face {
+    font-family: MarkaziText;
+    src: url(/Users/pratiksha/pratproj/src/MarkaziText.ttf);
+}
+@font-face {
+    font-family: KarlaText;
+    src: url(/Users/pratiksha/pratproj/src/Karla.ttf);
+}
+
+.grid-container{
+    display:inline-grid;
+    gap:50px;
+    grid-template-columns: auto auto;
+    background-color: #495e57;
+    height: 350px;
+    margin: auto;
+    width: 100%;
+    margin-top: -20px;
+    margin-bottom: 175px;
+
+}
+
+.resFood{
+    height: 350px;
+    width: 300px;
+    border-radius: 16px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.spanbg{
+    color: #495e57;
+  
+}
+.about{
+    padding-left: 50px;
+    
+}
+
+.name{
+    color: #f4ce14;
+    font-size: 64pt ;
+    font-family: MarkaziText;
+    margin-top: 5px;
+
+}
+.location{
+    color: white;
+    font-size: 40pt ;
+    margin-top: -40px;
+    margin-bottom: 20px;
+
+    font-family: MarkaziText;
+}
+.about{
+    color: white;
+    font-family: KarlaText;
+    font-size: 18pt;
+
+}
+.description{
+    margin-top: -30px;
+
+}
+
+.reserveATable{
+    color: #333333;
+    background-color: #f4ce14;
+    border-radius: 16px;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 10px;
+
+}

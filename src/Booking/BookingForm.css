@@ -1,0 +1,37 @@
+@font-face {
+    font-family: MarkaziText;
+    src: url(/Users/pratiksha/pratproj/src/MarkaziText.ttf);
+}
+@font-face {
+    font-family: KarlaText;
+    src: url(/Users/pratiksha/pratproj/src/Karla.ttf);
+}
+
+#headingBookingForm{
+    font-family: MarkaziText;
+    font-size: 64pt;
+    text-align: center;
+}
+
+.formFields{
+    font-family: MarkaziText;
+    font-size: 124px;
+    /* text-align: center; */
+
+}
+
+.formInput{
+    border-color: #495e57;
+}
+
+#reserveATableButton{
+    background-color: #495e57;
+    color:#f4ce14;
+}
+#tnc{
+    color: black;
+    font-family: KarlaText;
+    font-size: 18px;
+    padding:15px 460px 15px 460px;
+    text-align: justify;
+}

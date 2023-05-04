@@ -1,0 +1,45 @@
+@font-face {
+    font-family: MarkaziText;
+    src: url(/Users/pratiksha/pratproj/src/MarkaziText.ttf);
+}
+@font-face {
+    font-family: KarlaText;
+    src: url(/Users/pratiksha/pratproj/src/Karla.ttf);
+}
+
+/* font-family: MarkaziText;
+font-size: 64pt; */
+
+.bgColor{
+background-color: #495e57;
+
+}
+
+.mainFooter{
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-gap: 10px;
+    background-color: #495e57;
+    /* padding: 10px; */
+    font-family: KarlaText;
+    font-size: 18px;
+    text-align: left;
+    color: white;
+    /* padding-bottom: 50px;   */
+  }
+
+  .mainFooter > div{
+    text-align: center;
+    padding: 50px;
+  }
+ .socialsList{
+  background-color:#495e57;
+  display: grid;
+  grid-template-columns: auto auto ;
+  margin-top: -30px;
+  text-align: left;
+ }
+
+ .socials{
+  display: block;
+ }
