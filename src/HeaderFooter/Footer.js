@@ -7,17 +7,18 @@ function Footer() {
       <div className="mainFooter">
         <div className="footerInfo">
           <h2 style={{ fontSize: "30px" }}>Get to Know Us Better!</h2>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum. It is a long established fact that
-          a reader will be distracted by the readable content of a page when
-          looking at its layout.
+          Little Lemon reserves all rights. Use of this site constitutes the acceptantance 
+          of our User Agreement and Privacy Policy  and Cookie Statement and these are Your 
+          State Privacy Laws. Subscribe to our newsletter for the latest news on new item 
+          launches and know about the hottest discounts before anyone else! 
+          Little Lemon reserves all rights. Use of this site constitutes the acceptantance 
+          of our User Agreement and Privacy Policy  and Cookie Statement and these are Your 
+          State Privacy Laws. Subscribe to our newsletter for the latest news on new item 
+          launches and know about the hottest discounts before anyone else! 
+          Little Lemon reserves all rights. Use of this site constitutes the acceptantance 
+          of our User Agreement and Privacy Policy  and Cookie Statement and these are Your 
+          State Privacy Laws. Subscribe to our newsletter for the latest news on new item 
+          launches and know about the hottest discounts before anyone else! 
           <br/>~Little Lemon~{" "}
         </div>
         <div class="footerContact">
